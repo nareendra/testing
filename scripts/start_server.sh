@@ -38,4 +38,4 @@ do
 done
 
 ##uncomment to check for changing the directory
-systemctl restart apache2
+systemctl restart nginx
